@@ -1,0 +1,3 @@
+This file contains some text.
+It is meant to be a tester file. 
+Ohh look, this is text.
