@@ -1,3 +1,7 @@
+/*********************
+Author: Edgar Cobos
+Filename: Lab3C.c
+**********************/
 # include <stdio.h> 
 # include <stdlib.h> 
 # include <sys/types.h> 
