@@ -4,7 +4,7 @@
 # include <unistd.h> 
 int main(int argc, char *argv[]) 
 { 
-	static char *new_argv[] = {"cat","yourfile.txt", (char *) 0}; 
+	static char *new_argv[] = {"cat","tester_file.txt", (char *) 0}; 
 	execvp("/bin/cat", new_argv); 
 	perror("exec failure"); 
 	exit(1); 
