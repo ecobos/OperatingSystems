@@ -1,5 +1,5 @@
 /*********************
-Author: Edgar Andrew Cobos
+Author: Edgar A Cobos
 Filename: Lab3A.c
 **********************/
 # include <stdio.h> 
